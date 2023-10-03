@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    padding: 0px;
+    text-align: center;
+    background-image: url(ak.jpg);
+}
+#Bin{
+   margin: 10%;
+   font-size: 30px;
+   color: rgb(245, 5, 5);
+   }
+
+#Bin1{ 
+    margin: 10%;
+    font-size: 30px;
+    color: rgb(245, 5, 5);
+}
+
+#summit{
+   text-align:center ;
+   
+}
